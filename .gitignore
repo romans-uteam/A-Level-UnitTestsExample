@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/A_Level_Adv2_UnitTests_Practice1
+/ConsoleApp/obj/Debug
+/ConsoleApp/bin/Debug
+/CustomMathLibrary/obj/Debug
+/CustomMathLibrary/bin/Debug
+/CustomMathLibrary_Tests/obj/Debug
+/CustomMathLibrary_Tests/bin/Debug
+/NUnitTestProject/obj
+/NUnitTestProject/bin/Debug/netcoreapp3.0
+/packages
